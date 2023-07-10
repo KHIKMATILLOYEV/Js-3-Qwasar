@@ -11,4 +11,4 @@ Another important aspect of programming is automation. When we write programs, w
 ## Both together!
 Often our motivations for programming are combined. Creating new projects may also include automating certain tasks. We can develop applications that not only solve specific problems, but also simplify the daily actions of users. Coding provides us with a means to realize our ideas and aspirations, whether it's creating a new product, improving an existing one, or optimizing processes.
 
-### So go ahead, keep coding and explore the possibilities that programming provides!
+### So go ahead, keep coding and explore the possibilities that programming provides!!!
